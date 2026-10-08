@@ -1,34 +1,25 @@
 # Ciao, sono Arlon!
 
-**Studente ITS Academy ICT | Sviluppo Software**
+```text
+> whoami
+Arlon Cava
+Studente ITS Academy ICT | Sviluppo Software
 
-*Beyond making it work. Making it better.*
+> philosophy
+Beyond making it work. Making it better.
 
-Mi occupo di sviluppo software con particolare interesse per il **backend, la progettazione di database e lo sviluppo full-stack**.
+> focus
+Backend Development
+Database Systems
+Full-stack Development
+Software Engineering & Quality
+```
 
-Attraverso il mio percorso formativo sto approfondendo tecnologie, architetture e metodologie di sviluppo, applicandole a progetti che spaziano dalle API REST alle applicazioni web, fino alla gestione dei dati e alla qualità del software.
+Mi occupo di sviluppo software con particolare interesse per il **backend, la progettazione di database e lo sviluppo full-stack**. Mi piace non limitarmi a far funzionare il codice, ma cercare soluzioni efficaci, affidabili, sicure e manutenibili.
+
+Attraverso il mio percorso formativo approfondisco tecnologie, architetture e metodologie di sviluppo, applicandole a progetti che spaziano dalle API REST alle applicazioni web, fino alla gestione dei dati e alla qualità del software.
 
 Questo profilo raccoglie una selezione dei progetti che rappresentano il mio percorso di apprendimento e le competenze tecniche che sto consolidando.
-
----
-
-## Aree di interesse
-
-**Backend Development**
-
-Progettazione e sviluppo di API REST, logica applicativa, architetture software e integrazione con database.
-
-**Database Systems**
-
-Modellazione relazionale e documentale, progettazione di schemi, interrogazioni SQL e gestione della persistenza.
-
-**Full-stack Development**
-
-Sviluppo di applicazioni web, interfacce interattive e comunicazione tra frontend e backend.
-
-**Software Engineering & Quality**
-
-Organizzazione del codice, testing, controllo di versione, containerizzazione e attenzione alla sicurezza applicativa.
 
 ---
 
@@ -78,8 +69,8 @@ Comprende la progettazione di un database relazionale, interrogazioni SQL e un'e
 
 | Area | Tecnologie e strumenti |
 |---|---|
-| **Linguaggi** | Java, C#, JavaScript, TypeScript, SQL, C |
-| **Backend** | Spring Boot, ASP.NET Core, Node.js, Express |
+| **Linguaggi** | Java, C#, JavaScript, TypeScript, Python, SQL, C |
+| **Backend** | Spring Boot, ASP.NET Core, Node.js, Express, Django |
 | **Frontend** | Angular, React, HTML, CSS, Bootstrap |
 | **Database** | PostgreSQL, MySQL, SQL Server, MongoDB |
 | **Strumenti** | Git, GitHub, Docker, Maven, Postman, Linux |
@@ -89,7 +80,7 @@ Comprende la progettazione di un database relazionale, interrogazioni SQL e un'e
 
 ## Percorso e prospettive
 
-Attualmente frequento il percorso **ICT – Sviluppo Software presso ITS Academy Abruzzo**, dopo una precedente esperienza universitaria nell'ambito dell'ingegneria informatica e dell'automazione.
+Attualmente frequento il percorso **ICT – Sviluppo Software presso ITS Academy Abruzzo**. Dopo una parentesi universitaria in **Ingegneria Informatica e dell'Automazione**, ho deciso di cambiare *branch* e proseguire la mia formazione con un approccio più pratico allo sviluppo software, portando con me le competenze acquisite nella nuova *release* del mio percorso.
 
 Il mio interesse professionale è rivolto principalmente allo sviluppo backend e full-stack, con particolare attenzione all'ecosistema Java, alle applicazioni web e alla gestione dei database.
 
@@ -101,4 +92,3 @@ Considero questo portfolio un progetto in continua evoluzione, da arricchire pro
 
 - **LinkedIn:** [linkedin.com/in/arloncava](https://www.linkedin.com/in/arloncava)
 - **GitHub:** [Il mio profilo](https://github.com/arlonarl)
-
