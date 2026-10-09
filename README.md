@@ -51,7 +51,19 @@ Consente di posizionare dispositivi, definire collegamenti, modificare configura
 
 [Esplora il progetto](https://github.com/arlonarl/editor-topologie-rete)
 
-### 03 - Database Manutenzione Aziendale
+### 03 - IT Operations Center
+
+**Python · Django · SQLite · Requests · Bootstrap · Chart.js**
+
+Applicazione per la gestione operativa di risorse e servizi IT, con inventario degli asset, gestione degli incidenti, monitoraggio HTTP/HTTPS e dashboard interattiva.
+
+Il progetto integra controlli sullo stato dei servizi, registrazione degli eventi e apertura automatica degli incidenti in presenza di anomalie. Comprende inoltre una CLI Python per la gestione di asset e incidenti tramite terminale, con persistenza indipendente dall'applicazione web.
+
+**Aspetti principali:** Django ORM, gestione degli asset e degli incidenti, monitoraggio HTTP, automazioni, autenticazione, persistenza e testing.
+
+[Esplora il progetto](https://github.com/arlonarl/it-operations-center)
+
+### 04 - Database Manutenzione Aziendale
 
 **MySQL · SQL · MongoDB · Node.js · Express**
 
